@@ -17,17 +17,17 @@ var thunderGroup;
 
 function preload(){
     
-    um_image = loadImage("images/Walking Frame/walking_1.png");
+    um_image = loadImage("walking_1.png");
 
     rainSound = loadSound("rain.mp3");
 
-    thunderImage1 = loadImage("images/thunderbolt/1.png");
+    thunderImage1 = loadImage("1.png");
 
-    thunderImage2 = loadImage("images/thunderbolt/2.png");
+    thunderImage2 = loadImage("2.png");
 
-    thunderImage3 = loadImage("images/thunderbolt/3.png");
+    thunderImage3 = loadImage("3.png");
 
-    thunderImage4 = loadImage("images/thunderbolt/4.png");
+    thunderImage4 = loadImage("4.png");
 
 }
 
